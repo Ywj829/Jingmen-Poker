@@ -1,0 +1,8 @@
+# backend/requirements.txt
+torch>=2.0.0
+numpy>=1.24.0
+gym>=0.26.0
+tensorboard>=2.13.0
+opencv-python>=4.8.0
+onnx>=1.14.0
+tensorflowjs>=4.10.0
